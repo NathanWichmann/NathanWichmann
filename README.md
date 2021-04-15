@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: email nathanwicker@hotmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I enjoy coding...
--->
