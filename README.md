@@ -1,5 +1,4 @@
 ### Hi there 👋
-**NathanWichmann/NathanWichmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - 🔭 I’m currently working on a personal portfolio for my Coding Bootcamp course at Carleton Univeristy.
