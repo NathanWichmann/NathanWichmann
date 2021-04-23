@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a personal portfolio for my Coding Bootcamp course at Carleton Univeristy.
+- 🔭 I’m currently working on a README.md generator for my Coding Bootcamp course at Carleton Univeristy.
 - 🌱 I’m currently learning how to use Node.js. 
 - 👯 I’m looking to collaborate on my next projext in my course.
 - 🤔 I’m looking for help with anything Javascript function related.
