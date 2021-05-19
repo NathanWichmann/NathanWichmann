@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a README.md generator for my Coding Bootcamp course at Carleton Univeristy.
-- 🌱 I’m currently learning how to use Node.js. 
-- 👯 I’m looking to collaborate on my next projext in my course.
-- 🤔 I’m looking for help with anything Javascript function related.
-- 💬 Ask me about my pug.
-- 📫 How to reach me: email nathanwicker@hotmail.com
+- 🔭 I’m currently working on a E-Commerce back end shopping api for my Coding Bootcamp course at Carleton Univeristy.
+- 🌱 I’m currently learning how to use Handlebars.
+- 👯 I’m looking to find a position as a Junior Full Stack web Developer, now or in August when my course is over.
+- 🤔 I’m looking for help with landing that position where I can learn all thats required to become a succsessfull Junioer Developer.
+- 💬 Ask me about my latest assignment, I enjoy using Insomnia and get great joy when my json data is visible. 
+- 📫 How to reach me: email nathanwicker@hotmail.com, nathanwichmann12@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I enjoy coding...
+- ⚡ Fun fact: I am really enjoying back end web development. Check out my readme sections on my repositories and see my learning progression. I came into this course with 0 knowledge of coding have come a long way. The journey has just begun and look forward to seeing whats next. 
