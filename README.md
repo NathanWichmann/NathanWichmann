@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<a href="https://nathanwichmann.github.io/Portfolio-Update/">Deployed Portfolio</a>
 - 🔭 I’m currently working on an updated Portfolio for my Coding Bootcamp course at Carleton Univeristy.
 - 🌱 I’m currently learning how to use React.
 - 👯 I’m looking to find a position as a Junior Full Stack web Developer, now or in August when my course is over.
