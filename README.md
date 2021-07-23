@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a grapgql assignment for my Coding Bootcamp course at Carleton Univeristy.
 - 🌱 I’m currently learning how to use React.
 - 👯 I’m looking to find a position as a Junior Full Stack web Developer, now or in August when my course is over.
-- 🤔 I’m looking for help with landing that position where I can learn all thats required to become a succsessfull Junioer Developer.
+- 🤔 I’m looking for help with landing that position where I can learn all thats required to become a succsessfull Junior Developer.
 - 💬 Ask me about my latest assignment, I enjoy using Insomnia and get great joy when my json data is vissble. 
 - 📫 How to reach me: email nathanwicker@hotmail.com, nathanwichmann12@gmail.com
 - 😄 Pronouns: he/him
