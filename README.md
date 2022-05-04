@@ -8,8 +8,7 @@
 - 💬 Why do I enjoy coding? It gives me a sense of accomplishment, with a visual representation of it.  
 - 📫 How to reach me: email nathanwicker@hotmail.com, nathanwichmann12@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Coding bootcamp was fun and hard work, but it left me with more questions than answers, so I decided to go back to the begining and learn C. I 
-- continue to add more languages and frameworks to my repertoire.
+- ⚡ Fun fact: Coding bootcamp was fun and hard work, but it left me with more questions than answers, so I decided to go back to the begining and learn C. I continue to add more languages and frameworks to my repertoire.
 
 
 
