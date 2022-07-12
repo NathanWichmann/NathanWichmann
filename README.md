@@ -1,7 +1,7 @@
 ### Potential Employer's
 
 <a href="https://nathanwichmann.github.io/My-App/">New React Portfolio</a>
-- 🔭 I’m almost finished the Harvard Intro to Computer Science Course, currently working on week 9 of 10, which is Flask.
+- 🔭 I’m almost finished the Harvard Intro to Computer Science Course, currently working on the Final Project, which will be a movie blog site using Django back end..
 - 🌱 I finished the Intro to Data Analytics offered through Lighthouse Labs. 
 - 👯 I’m adding to my base knowledge looking for that perfect fit with a strong development team I can learn from.
 - 🤔 I’m looking for a position as a junior developer with a strong team.
