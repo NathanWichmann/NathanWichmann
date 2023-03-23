@@ -1,6 +1,6 @@
 ### Potential Employer's
 
-<a href="https://nathanwichmann.github.io/My-App/">React Portfolio</a>
+<a href="https://nathanwichmann.github.io">React Portfolio</a>
 - 🔭 Finished Harvard's CS50 Introduction to Computer Science. RECEIVED Certificate of Completion. 
 - 🌱 I finished the Intro to Data Analytics offered through Lighthouse Labs. 
 - 👯 I’m adding to my base knowledge looking for that perfect fit with a strong development team I can learn from.
