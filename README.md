@@ -1,6 +1,7 @@
 ### Potential Employer's
 
 <a href="https://nathanwichmann.github.io">React Portfolio</a>
+- :) Finished and received Google Cyber Security Certificate through coursera. all 8 courses completed.
 - 🔭 Finished Harvard's CS50 Introduction to Computer Science. RECEIVED Certificate of Completion. 
 - 🌱 I finished the Intro to Data Analytics offered through Lighthouse Labs. 
 - 👯 I’m adding to my base knowledge looking for that perfect fit with a strong development team I can learn from.
