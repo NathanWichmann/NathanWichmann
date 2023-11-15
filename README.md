@@ -1,8 +1,11 @@
 ### Potential Employer's
 
 <a href="https://nathanwichmann.github.io">React Portfolio</a>
+- :) Currently doing CS50w Harvard Web Programing with Javascript and Python, week 8.
+- :) Currently doing CS50p Harvard Programing with python, week 7.
+- :) Finished and received certificate in Harvard Data Science: R basics.
 - :) Finished and received Google Cyber Security Certificate through coursera. all 8 courses completed.
-- 🔭 Finished Harvard's CS50 Introduction to Computer Science. RECEIVED Certificate of Completion. 
+- 🔭 Finished Harvard's CS50x Introduction to Computer Science. RECEIVED Certificate of Completion. 
 - 🌱 I finished the Intro to Data Analytics offered through Lighthouse Labs. 
 - 👯 I’m adding to my base knowledge looking for that perfect fit with a strong development team I can learn from.
 - 🤔 I’m looking for a position as a junior developer with a strong team.
