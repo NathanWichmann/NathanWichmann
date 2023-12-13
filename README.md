@@ -2,7 +2,7 @@
 
 <a href="https://nathanwichmann.github.io">React Portfolio</a>
 - :) Currently doing CS50w Harvard Web Programing with Javascript and Python, week 8.
-- :) Currently doing CS50p Harvard Programing with python, week 7.
+- :) Currently doing CS50p Harvard Programing with python, Final Project.
 - :) Finished and received certificate in Harvard Data Science: R basics.
 - :) Finished and received Google Cyber Security Certificate through coursera. all 8 courses completed.
 - 🔭 Finished Harvard's CS50x Introduction to Computer Science. RECEIVED Certificate of Completion. 
